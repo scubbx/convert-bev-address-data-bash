@@ -1,4 +1,4 @@
-# Conver BEV Adresses with BASH
+# Convert BEV Adresses with BASH
 
 Since the original script in Python I was wondering if there is no better way to convert the BEV address data to an easily usable format in a more perfoment manner.
 
